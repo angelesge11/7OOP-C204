@@ -62,7 +62,7 @@
 
 ###
 <h2 align="left">Projects:</h2>
-- ### **[Test](https://github.com/angelesge11)** <sup>test</sup>
+[Test Project](https://github.com/angelesge11)   <sup>test</sup>
 
 ###
 <h2 align="left">Fun Facts About Me:</h2>
