@@ -14,11 +14,11 @@
 
 ###
 <p align="left">
-- 🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
-- 💻 I’m currently learning Python, CSS, and JavaScript.<br>
-- 🌱 Always curious and trying to grow my skills.<br>
-- 🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>
-- 🎉Fun fact: I love traveling and playing rhythm games.</p>
+• 🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
+• 💻 I’m currently learning Python, CSS, and JavaScript.<br>
+• 🌱 Always curious and trying to grow my skills.<br>
+• 🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>
+• 🎉Fun fact: I love traveling and playing rhythm games.</p>
 
 ###
 <div align="center">
@@ -30,12 +30,12 @@
 
 ###
 <p align="left">
-- 🤖 Artificial Intelligence<br>
-- 🎨 UI/UX Design<br>
-- 🖌️ Graphics Design<br>
-- 🎬 Multimedia<br>
-- 🌐 Web Development<br>
-- 🎮 Game Development</p>
+• 🤖 Artificial Intelligence<br>
+• 🎨 UI/UX Design<br>
+• 🖌️ Graphics Design<br>
+• 🎬 Multimedia<br>
+• 🌐 Web Development<br>
+• 🎮 Game Development</p>
 
 ###
 <div align="left">
@@ -69,22 +69,22 @@
 
 ###
 <p align="left">
-- ✈️ I enjoy traveling and exploring new places.  <br>
-- 🎮 I like playing games in my free time.  <br>
-- 😌 I’m an ambivert.  <br>
-- ☕ I love coffee and good food.  <br>
+• ✈️ I enjoy traveling and exploring new places.  <br>
+• 🎮 I like playing games in my free time.  <br>
+• 😌 I’m an ambivert.  <br>
+• ☕ I love coffee and good food.  <br>
 
 ###
 <div align="left">
-  <a href="https://discordapp.com/users/578812855193960452" target="_blank">
+  <a href="https://discordapp.com/users/578812855193960452" target="discord">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a><sup>I hang out here most of the time, so you can easily reach me.</sup><br> 
-  <a href="https://www.facebook.com/angelesge11" target="_blank">
+  </a><sup> • I hang out here most of the time, so you can easily reach me.</sup><br> 
+  <a href="https://www.facebook.com/angelesge11" target="facebook">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a><sup>I’m always online here, don’t hesitate to drop me a message!</sup><br>
-  <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
+  </a><sup> • I’m always online here, don’t hesitate to drop me a message!</sup><br>
+  <a href="https://www.youtube.com/@gabzumii/videos" target="youtube">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a><sup>This is where I upload my videos.</sup>
+  </a><sup> • This is where I upload my videos.</sup>
 </div>
 
 ###
