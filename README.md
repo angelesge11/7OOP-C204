@@ -7,7 +7,7 @@
 
 ###
 <h3 align="center">
-👋 Hi, I’m Gabriel Elmo Angeles  a Computer Science student<br> from BSCS-C204 at City College of Angeles.</h3>
+👋 Hi, I’m Gabriel Elmo Angeles a Computer Science student<br> from BSCS-C204 at City College of Angeles.</h3>
 
 ###
 <h2 align="left">About me:</h2>
@@ -69,9 +69,10 @@
 
 ###
 <p align="left">
-• ✈️ I enjoy traveling and exploring new places.  <br>
+• 🤯 I thought there’s no math in Computer Science. <br>
+• 🗺️ I enjoy traveling and exploring new places.  <br>
 • 🎮 I like playing games in my free time.  <br>
-• 😌 I’m an ambivert.  <br>
+• 😌 I’m an ambivert, sometimes smart sometimes dumb.  <br>
 • ☕ I love coffee and good food.  <br>
 
 ###
