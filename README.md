@@ -1,43 +1,43 @@
-<h1 align="center"></h1>
+<h1 align="center">Gabriel Elmo Angeles</h1>
 
-###
+### 
 <div align="center">
   <img height="150" src="https://pbs.twimg.com/profile_images/1802710354084188160/7PgeVFpH_400x400.jpg"  />
 </div>
 
-###
+### 
 <h3 align="center">
-👋 Hi, I’m Gabriel Elmo Angeles a Computer Science student<br> from BSCS-C204 at City College of Angeles.</h3>
+👋 Hi, I’m Gabriel Elmo Angeles, a Computer Science student<br> from BSCS-C204 at City College of Angeles.
+</h3>
 
-###
-<h2 align="left">About me:</h2>
+### 
+<h2 align="left">About Me:</h2>
 
-###
 <p align="left">
 • 🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
 • 💻 I’m currently learning Python, CSS, and JavaScript.<br>
 • 🌱 Always curious and trying to grow my skills.<br>
 • 🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>
-• 🎉 Fun fact: I love traveling and playing rhythm games.</p>
+• 🎉 Fun fact: I love traveling and playing rhythm games.
+</p>
 
-###
+### 
 <div align="center">
   <img height="215" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
 </div>
 
-###
+### 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 
-###
 <p align="left">
 • 🤖 Artificial Intelligence<br>
 • 🎨 UI/UX Design<br>
 • 🖌️ Graphics Design<br>
 • 🎬 Multimedia<br>
 • 🌐 Web Development<br>
-• 🎮 Game Development</p>
+• 🎮 Game Development
+</p>
 
-###
 <div align="left">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
@@ -63,18 +63,17 @@
 ###
 <h2 align="left">Projects:</h2>
 
- **Midterms Projects**<br>
-• []() **<sup></sup>**<br>
-• []() **<sup></sup>**<br>
+**Midterms Projects**  
+- [Project 1](#) <sup>test</sup>  
+- [Project 2](#) <sup>test</sup>  
 
-**Finals Projects**<br>
-• []() **<sup></sup>**<br>
-• []() **<sup></sup>**<br>
+**Finals Projects**  
+- [Project 1](#) <sup>test</sup>  
+- [Project 2](#) <sup>description</sup>  
 
-###
+### 
 <h2 align="left">Fun Facts About Me:</h2>
 
-###
 <p align="left">
 • 🤯 I thought there’s no math in Computer Science. <br>
 • 🗺️ I enjoy traveling and exploring new places.  <br>
@@ -83,8 +82,8 @@
 • ☕ Coffee and Tofu are my favorites.  <br>
 </p>
 
-###
-<h2 align="left">Connect with me:</h2>
+### 
+<h2 align="left">Connect with Me:</h2>
 
 <div align="left">
   <a href="https://discordapp.com/users/578812855193960452" target="_blank">
@@ -94,9 +93,11 @@
 
   <a href="https://www.facebook.com/angelesge11" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" height="25" alt="facebook logo"  />
-    <sup>• I’m always online here, don’t hesitate to drop me a message!</sup></a><br>
+    <sup>• I’m always online here, don’t hesitate to drop me a message!</sup>
+  </a><br>
 
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" height="25" alt="youtube logo"  />
-    <sup>• This is where I upload my videos.</sup></a>
+    <sup>• This is where I upload my videos.</sup>
+  </a>
 </div>
