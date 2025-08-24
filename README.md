@@ -1,16 +1,13 @@
 <h1 align="center">Gabriel Elmo Angeles</h1>
 
-### 
 <div align="center">
   <img height="150" src="https://pbs.twimg.com/profile_images/1802710354084188160/7PgeVFpH_400x400.jpg"  />
 </div>
 
-### 
 <h3 align="center">
 👋 Hi, I’m Gabriel Elmo Angeles, a Computer Science student<br> from BSCS-C204 at City College of Angeles.
 </h3>
 
-### 
 <h2 align="left">About Me:</h2>
 
 <p align="left">
@@ -21,12 +18,10 @@
 • 🎉 Fun fact: I love traveling and playing rhythm games.
 </p>
 
-### 
 <div align="center">
   <img height="215" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
 </div>
 
-### 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
 
 <p align="left">
@@ -60,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
 <h2 align="left">Projects:</h2>
 
 **Midterms Projects**  
@@ -71,7 +65,7 @@
 - [Project 1](#) <sup>test</sup>  
 - [Project 2](#) <sup>description</sup>  
 
-### 
+  
 <h2 align="left">Fun Facts About Me:</h2>
 
 <p align="left">
@@ -82,7 +76,6 @@
 • ☕ Coffee and Tofu are my favorites.  <br>
 </p>
 
-### 
 <h2 align="left">Connect with Me:</h2>
 
 <div align="left">
