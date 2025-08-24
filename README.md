@@ -64,12 +64,12 @@
 <h2 align="left">Projects:</h2>
 
  **Midterms Projects**<br>
-[github test](https://github.com/angelesge11) **<sup>TEST</sup>** - _asdadsa_<br>
-[test](https://github.com/angelesge11) <sup>HTML</sup> - _asdasda_<br>
+• []() **<sup></sup>**<br>
+• []() **<sup></sup>**<br>
 
 **Finals Projects**<br>
-[test](https://github.com/angelesge11) **<sup>CSS</sup>** - _asdad_<br>
-[test](https://github.com/angelesge11) **<sup>JS</sup>** - _asdasd_<br>
+• []() **<sup></sup>**<br>
+• []() **<sup></sup>**<br>
 
 ###
 <h2 align="left">Fun Facts About Me:</h2>
@@ -78,9 +78,9 @@
 <p align="left">
 • 🤯 I thought there’s no math in Computer Science. <br>
 • 🗺️ I enjoy traveling and exploring new places.  <br>
-• 🎮 I like playing games in my free time.  <br>
-• 😌 I’m an ambivert, sometimes smart sometimes dumb.  <br>
-• ☕ I love coffee and good food.  <br>
+• 🎮 Playing online games is my hobby.  <br>
+• 😌 Sometimes smart sometimes dumb.  <br>
+• ☕ Coffee and Tofu are my favorites.  <br>
 </p>
 
 ###
@@ -94,11 +94,9 @@
 
   <a href="https://www.facebook.com/angelesge11" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" height="25" alt="facebook logo"  />
-    <sup>• I’m always online here, don’t hesitate to drop me a message!</sup>
-  </a><br>
+    <sup>• I’m always online here, don’t hesitate to drop me a message!</sup></a><br>
 
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" height="25" alt="youtube logo"  />
-    <sup>• This is where I upload my videos.</sup>
-  </a>
+    <sup>• This is where I upload my videos.</sup></a>
 </div>
