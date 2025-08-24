@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img height="215" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
+  <img height="200" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
 </div>
 
 <h2 align="left">Areas of Interest, Languages & Tools:</h2>
@@ -63,7 +63,7 @@
 
 **Finals Projects**  
 - [Project 1](#) <sup>test</sup>  
-- [Project 2](#) <sup>description</sup>  
+- [Project 2](#) <sup>test</sup>  
 
   
 <h2 align="left">Fun Facts About Me:</h2>
