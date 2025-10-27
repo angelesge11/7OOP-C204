@@ -58,16 +58,16 @@
 <h2 align="left">Projects:</h2>
 
 **Midterms Projects**  
-- [Midterm Paired Task 1.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Paired%20Task%201.%20Object%20Oriented%20Analysis%20(1).pdf) <sup>Object Oriented Analysis and Design</sup>  
+- [Midterm Paired Task 1.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Paired%20Task%201.%20Object%20Oriented%20Analysis%20(1).pdf) <sup>Object Oriented Analysis and Design</sup>  
 - [7OOP Lab Task.](https://github.com/angelesge11/7OOP-Lab-Task) <sup>Github Repository Markdown File</sup>  
-- [Midterm Lab Task 1.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%201.pdf) <sup>Escape Sequence, Type Specifiers, Accept User Input and Day Identifier</sup>
-- [Midterm Lab Task 2.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%202.pdf) <sup>Using Loops and Functions.</sup>
-- [Midterm Lab Task 3.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%203.pdf) <sup>Python List Collections Using List Collection types</sup>
-- [Midterm Lab Task 4.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%204.pdf) <sup>Using Dictionaries</sup>
-- [Midterm Lab Task 5.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%205.pdf) <sup>Creating Class and Instantiating Objects in Python</sup>
+- [Midterm Lab Task 1.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%201.pdf) <sup>Escape Sequence, Type Specifiers, Accept User Input and Day Identifier</sup>
+- [Midterm Lab Task 2.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%202.pdf) <sup>Using Loops and Functions.</sup>
+- [Midterm Lab Task 3.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%203.pdf) <sup>Python List Collections Using List Collection types</sup>
+- [Midterm Lab Task 4.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%204.pdf) <sup>Using Dictionaries</sup>
+- [Midterm Lab Task 5.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Midterm%20Lab%20Task%205.pdf) <sup>Creating Class and Instantiating Objects in Python</sup>
 
 **Finals Projects**  
-- [Finals Lab Task 1.](https://gabrielangeles011.vercel.app/assets/pdf/Gabriel%20Elmo%20Angeles%20-%20Finals%20Lab%20Task%201.pdf) <sup>Encapsulation</sup>  
+- [Finals Lab Task 1.](https://gabrielangeles011.vercel.app/labtask/pdf/Gabriel%20Elmo%20Angeles%20-%20Finals%20Lab%20Task%201.pdf) <sup>Encapsulation</sup>  
 
   
 <h2 align="left">Fun Facts About Me:</h2>
